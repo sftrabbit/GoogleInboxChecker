@@ -18,7 +18,7 @@
     "webNavigation",
     "*://*.google.com/"
    ],
-  "version": "4.4.0",
+  "version": "0.1",
   "manifest_version": 2,
   "options_page": "options.html"
 }
